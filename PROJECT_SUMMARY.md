@@ -1,10 +1,6 @@
-# 🎉 RentiGo Project - Complete & Production Ready!
-
-## ✅ Project Status: READY FOR UPLOAD TO REPOSITORY
-
----
-
-## 📦 What You Have
+#  RentiGo Project - Complete & Production Ready!
+Here is the Project Report Link:👇👇👇👇
+https://docs.google.com/presentation/d/17y93K5nfUOmCAURNgBiny19lqQ1CUtPp/edit?usp=drivesdk&ouid=113240529899360799819&rtpof=true&sd=true 
 
 A **complete, production-ready vehicle rental management system** with:
 
